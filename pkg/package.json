@@ -1,0 +1,15 @@
+{
+  "name": "time_capsule_wallet",
+  "collaborators": [
+    "kaisuki <1103720832@qq.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "time_capsule_wallet_bg.wasm",
+    "time_capsule_wallet.js",
+    "time_capsule_wallet.d.ts"
+  ],
+  "module": "time_capsule_wallet.js",
+  "types": "time_capsule_wallet.d.ts",
+  "sideEffects": false
+}
